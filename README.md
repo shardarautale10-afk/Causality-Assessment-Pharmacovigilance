@@ -1,8 +1,5 @@
 # Causality Assessment in Pharmacovigilance
 
-**Important:** The case below is hypothetical and is for learning
-purposes only. It is not medical advice or a real patient report.
-
 ## Objective
 
 To evaluate the likelihood of a relationship between a suspected
