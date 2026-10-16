@@ -1,12 +1,5 @@
 # Causality Assessment in Pharmacovigilance
 
-## Project overview
-
-This educational project demonstrates how a suspected adverse drug
-reaction (ADR) can be assessed using the **World Health
-Organization--Uppsala Monitoring Centre (WHO--UMC) causality assessment
-system**.
-
 **Important:** The case below is hypothetical and is for learning
 purposes only. It is not medical advice or a real patient report.
 
