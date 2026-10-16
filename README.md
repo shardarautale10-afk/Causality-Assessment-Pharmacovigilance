@@ -86,9 +86,3 @@ establish absolute proof.
 See [`REFERENCES.md`](REFERENCES.md) for official guidance and the
 original Naranjo-scale publication.
 
-## Disclaimer
-
-This repository is an educational demonstration, not a substitute for
-clinical judgment, professional pharmacovigilance procedures, or
-official reporting requirements. Do not upload identifiable patient
-information.
